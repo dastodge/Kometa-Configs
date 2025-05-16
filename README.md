@@ -6,6 +6,7 @@ A collection of configs for use with Kometa (formally Plex-Meta-Manager). These 
 
 <br>
 Borrowed from https://github.com/mikenobbs/Kometa-Configs/fork
+
 If you've found these configs helpful and would like to support me, then you can do so using the following link 🙂
 </br>
 <br>
